@@ -5,7 +5,7 @@
     <param.icons />
     <param.version>1.0</param.version>
     <param.authnamewatermark>Muhammad Akbar Reishandy</param.authnamewatermark>
-    <param.email>akbar@reishandy.my.id</param.email>
+    <param.email>akbar@reishandy.id</param.email>
     <param.company>Universitas PGRI Wiranegara</param.company>
     <param.summary>A simple calculator app</param.summary>
     <param.description>Just a simple calculaotr app using MATLAB's eval function</param.description>
